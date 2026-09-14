@@ -24,7 +24,7 @@ packages:
   factory: !include seeed-esp32-p4-reterminal-d1001.factory.yaml
   c6_recovery:
     url: https://github.com/jtenniswood/espcontrol
-    ref: v2.9.0
+    ref: 56f3e06df76a3f2492244cffff1266b333b33665
     refresh: 1d
     files:
       - common/device/esp32_c6_recovery.yaml
