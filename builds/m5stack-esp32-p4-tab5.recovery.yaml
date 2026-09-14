@@ -24,7 +24,7 @@ packages:
   factory: !include m5stack-esp32-p4-tab5.factory.yaml
   c6_recovery:
     url: https://github.com/jtenniswood/espcontrol
-    ref: 10fc1b93b9762e7a15112145e0e459d1e58e747c
+    ref: 7b73309ed6461b86eee0aff59b472edf40cf3989
     refresh: 1d
     files:
       - common/device/esp32_c6_recovery.yaml
