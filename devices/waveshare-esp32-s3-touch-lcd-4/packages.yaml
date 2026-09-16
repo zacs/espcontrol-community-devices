@@ -85,21 +85,21 @@ substitutions:
 packages:
   upstream_a:
     url: https://github.com/jtenniswood/espcontrol
-    ref: 8397208ca502eefee3c536243573d23434ba381f
+    ref: 4f8c0c458907d6fe7a43a39f9f4f0fb75778ee67
     refresh: 1d
     files:
       - common/config/entity_names.yaml
   device: !include device/device.yaml
   upstream_b:
     url: https://github.com/jtenniswood/espcontrol
-    ref: 8397208ca502eefee3c536243573d23434ba381f
+    ref: 4f8c0c458907d6fe7a43a39f9f4f0fb75778ee67
     refresh: 1d
     files:
       - common/assets/icons.yaml
   fonts_device: !include device/fonts.yaml
   upstream_c:
     url: https://github.com/jtenniswood/espcontrol
-    ref: 8397208ca502eefee3c536243573d23434ba381f
+    ref: 4f8c0c458907d6fe7a43a39f9f4f0fb75778ee67
     refresh: 1d
     files:
       - common/theme/button.yaml

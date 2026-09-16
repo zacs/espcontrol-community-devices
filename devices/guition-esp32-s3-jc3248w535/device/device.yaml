@@ -9,7 +9,7 @@
 
 substitutions:
   espcontrol_component_url: "https://github.com/jtenniswood/espcontrol"
-  espcontrol_component_ref: "8397208ca502eefee3c536243573d23434ba381f"
+  espcontrol_component_ref: "4f8c0c458907d6fe7a43a39f9f4f0fb75778ee67"
   mdi_font_file: "https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/fonts/materialdesignicons-webfont.ttf"
 
 # ---------------------------------------------------------------------------
